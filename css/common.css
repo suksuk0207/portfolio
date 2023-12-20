@@ -1,0 +1,11 @@
+@charset "utf-8";
+*{margin: 0; padding: 0; box-sizing: border-box; font : inherit; color: inherit;}
+a{text-decoration: none;}
+ul,ol{list-style: none;}
+img{max-width: 100%;}
+html{font-size: 10px;}
+body{font-size: 1.6rem; color: #222;}
+/* custom  */
+.inner{max-width: 1340px; padding: 0 20px; width: 100%; position: relative;}
+@media screen and (max-width: 1024px){}
+@media screen and (max-width: 768px){}
